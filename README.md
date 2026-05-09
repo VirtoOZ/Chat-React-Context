@@ -1,4 +1,4 @@
-Chat-React-Context
+Посмотреть - https://virtooz.github.io/Chat-React-Context
 Технологии: React, React-Context, TypeScript, Webpack, Bootstrap.
 
 Возможности:
